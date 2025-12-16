@@ -1,1 +1,2 @@
-# Recommend-system-06
+# RS06
+Recommedation System
